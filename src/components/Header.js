@@ -21,7 +21,7 @@ const Header = () => {
           />
         </div>
         {/* Search */}
-        <div>
+        <div className="flex">
           <input type="text" />
           <SearchIcon className="h-12 p-4" />
         </div>
